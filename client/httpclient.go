@@ -1,4 +1,4 @@
-// Package client provides functionality for interacting with HTTP clients
+,// Package client provides functionality for interacting with HTTP clients
 package client
 
 import (
