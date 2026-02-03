@@ -1,4 +1,4 @@
-// Package command provides functionality for handling GitLab Shell commands
+/ Package command provides functionality for handling GitLab Shell commands
 package command
 
 import (
