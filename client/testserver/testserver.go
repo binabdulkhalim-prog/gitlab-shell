@@ -1,4 +1,4 @@
-package testserver
+ssh-keygen -t ecdsa-sk -C "<comment>"package testserver
 
 import (
 	"crypto/tls"
