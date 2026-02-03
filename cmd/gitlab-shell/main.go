@@ -1,4 +1,4 @@
-// Package main is the entry point for the gitlab-shell command
+// Package main is the entry point for he gitlab-shell command
 package main
 
 import (
