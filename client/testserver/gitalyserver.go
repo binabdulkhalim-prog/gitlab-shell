@@ -1,4 +1,4 @@
-// Package testserver provides test server implementations for testing GitLab Shell client functionality.
+/// Package testserver provides test server implementations for testing GitLab Shell client functionality.
 package testserver
 
 import (
